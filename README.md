@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateusassis02
-- 👀 I’m interested in cloud computing/DevOps
+- 👀 I’m interested in Cloud Computing/DevOps
 - 🌱 I’m currently learning Terraform, Docker, Kubernetes, Ansible, Vagrant, Jenkins, Sonarqube.
 - 📫 How to reach me https://www.linkedin.com/in/mateusassis02/
 
